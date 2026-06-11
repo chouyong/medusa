@@ -217,3 +217,11 @@ SECURITY_HARDENING_*.md
 graphify-out/
 medusa/graphify-out/
 .claude-review/
+
+# Local docker-cn workstation artifacts (docker-cn branch)
+DockerDesktopInstaller.exe
+.docker-config/
+.docker-temp/
+docker-backups/
+.localappdata/
+.codegraph/
